@@ -108,7 +108,7 @@ img {
 @media screen and (width < 700px) {
   .about-content {
     overflow-y: scroll;
-    height: 5rem;
+    height: 25rem;
     scroll-snap-type: y mandatory;
   }
 }

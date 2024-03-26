@@ -41,4 +41,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.card {
+ background-color: rgba(71, 69, 71, 0.5);
+ }
+</style>

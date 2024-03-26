@@ -15,7 +15,7 @@
             xmlns="http://www.w3.org/2000/svg"
             width="25"
             height="30"
-            fill="currentColor"
+            fill="black"
             class="bi bi-linkedin"
             viewBox="0 0 16 16"
           >
@@ -31,7 +31,7 @@
             xmlns="http://www.w3.org/2000/svg"
             width="25"
             height="30"
-            fill="currentColor"
+            fill="blllack"
             class="bi bi-facebook"
             viewBox="0 0 16 16"
           >
@@ -48,7 +48,7 @@
             xmlns="http://www.w3.org/2000/svg"
             width="25"
             height="30"
-            fill="currentColor"
+            fill="black"
             class="bi bi-github"
             viewBox="0 0 16 16"
           >
@@ -64,7 +64,7 @@
             xmlns="http://www.w3.org/2000/svg"
             width="25"
             height="30"
-            fill="currentColor"
+            fill="black"
             class="bi bi-instagram"
             viewBox="0 0 16 16"
           >
@@ -81,7 +81,7 @@
             xmlns="http://www.w3.org/2000/svg"
             width="25"
             height="30"
-            fill="currentColor"
+            fill="black"
             class="bi bi-youtube"
             viewBox="0 0 16 16"
           >

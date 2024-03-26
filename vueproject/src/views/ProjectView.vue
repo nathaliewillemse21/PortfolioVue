@@ -47,6 +47,7 @@ export default {
   flex: 0 1 calc(30% - 20px);
   margin: 10px;
   box-sizing: border-box;
+  background-color: rgba(71, 69, 71, 0.5);
 }
 
 .card-img-top {
