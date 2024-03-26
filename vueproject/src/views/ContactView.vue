@@ -43,8 +43,14 @@
         </div>
         <button type="submit" class="btn btn-primary m-3 p-1">Submit</button>
       </form>
+    </div>
+    <div class="reachme">
+      <h3 class="text">Contact me</h3>
+      <p class="text">Cellphone: 0739952206</p>
+      <p class="text">Email Address: nathaliewillemse5@gmail.com</p>
+      <p class="text">Address: Eerste River</p>
       <img
-        src="https://i.ibb.co/gjCdg24/Adobe-Stock-357056172.webp"
+        src="https://i.ibb.co/tMnzgDt/Screenshot-2024-03-26-153332.png"
         class="img-fluid"
         alt="contact"
       />
@@ -58,4 +64,14 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped></style>
+<style scoped>
+.form-label {
+  font-style: italic;
+  color: antiquewhite;
+}
+
+.text {
+  font-style: italic;
+  color: antiquewhite;
+}
+</style>

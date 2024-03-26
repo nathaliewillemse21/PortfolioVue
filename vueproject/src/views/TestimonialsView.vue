@@ -43,6 +43,14 @@ export default {
 
 <style scoped>
 .card {
- background-color: rgba(71, 69, 71, 0.5);
- }
+  background-color: rgba(71, 69, 71, 0.5);
+}
+.card-title{
+  font-style: italic;
+  color: antiquewhite;
+}
+.card-text {
+  font-style: italic;
+  color: antiquewhite;
+}
 </style>

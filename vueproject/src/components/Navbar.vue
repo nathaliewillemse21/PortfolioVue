@@ -37,7 +37,7 @@
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/project">Project | </router-link>
+            <router-link class="nav-link" to="/project">Projects | </router-link>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/contact">Contact </router-link>

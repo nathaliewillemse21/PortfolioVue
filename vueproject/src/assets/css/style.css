@@ -7,7 +7,7 @@
 }
 /* From App */
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Anton;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -45,6 +45,7 @@ img[alt='logo'] {
 
 #view1 {
   font-size: 30px;
+  font-style: italic;
   text-align: center;
   font-weight: bold;
   color: rgb(242, 149, 244);
@@ -53,8 +54,10 @@ img[alt='logo'] {
 
 #view2 {
   font-size: 20px;
+  font-style: italic;
   font-weight: bold;
   text-align: center;
+  color: antiquewhite;
 }
 
 @keyframes text {
@@ -103,12 +106,15 @@ img {
 }
 #one {
   animation-timing-function: ease;
+  width: 250px;
 }
 /* About */
 @media screen and (width < 700px) {
   .about-content {
+    font-style: italic;
+    color: antiquewhite;
     overflow-y: scroll;
-    height: 25rem;
+    height: 20rem;
     scroll-snap-type: y mandatory;
   }
 }

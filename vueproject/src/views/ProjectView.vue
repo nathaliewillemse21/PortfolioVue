@@ -52,9 +52,16 @@ export default {
 
 .card-img-top {
   max-width: 100%;
-  height: auto;
+  min-height: auto;
 }
-
+.card-title {
+  font-style: italic;
+  color: antiquewhite;
+}
+.card-text {
+  font-style: italic;
+  color: antiquewhite;
+}
 .card-body {
   text-align: center; /* Optional: Center the text within the card body */
 }
